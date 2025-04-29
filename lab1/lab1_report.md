@@ -30,14 +30,15 @@
 ![image](https://github.com/user-attachments/assets/c320f157-9b2f-4bd4-87b7-b25b2e3dd8c6)
 
 6. Подключимся к созданной машине по SSH
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/565b0597-2da4-4673-b65f-24f79dc72353)
 
 7. В открывшемся окне введем команды для создания новой папки и копирования в нее заданных файлов. Закроем SSH-подключение.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/bc35577a-a491-4c46-bd19-516b30e389c5)
+
 
 8. Вернемся в раздел `IAM & Admin` на вкладку `Service Accounts`. Зададим новую роль `Compute Viewer` для сервисного аккаунта.
 ![image](https://github.com/user-attachments/assets/62a6c31e-6007-4f15-9bc4-5c69fe085451)
-![Uploading image.png…]()
 
 9. Снова запустим SSH-подключение. При попытке перенести данные на ВМ выдает следующую ошибку из-за отсутствия небоходимых прав
+  
 10. Удалим созданную ВМ и сервисный аккаунт.

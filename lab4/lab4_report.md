@@ -4,11 +4,11 @@
 <b>Year:</b> 2024/2025 <br>
 <b>Group:</b> U4125 <br>
 <b>Author:</b> Samedov Sultan Ilgar ogly <br>
-<b>Lab:</b> Lab3 <br>
+<b>Lab:</b> Lab4 <br>
 <b>Date of create:</b> 05.05.2025 <br>
-<b>Date of finished:</b> 05.05.2025<br>
+<b>Date of finished:</b> 06.05.2025<br>
 
-<h1>Отчет по лабораторной работе №3 </h1>
+<h1>Отчет по лабораторной работе №4 </h1>
 Описание заданий лабораторной работы можно найти здесь: https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab4/lab4/
 
 <b>Этапы зрелости приложения:</b>

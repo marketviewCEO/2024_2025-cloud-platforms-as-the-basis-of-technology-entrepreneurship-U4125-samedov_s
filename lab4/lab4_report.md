@@ -12,7 +12,9 @@
 Описание заданий лабораторной работы можно найти здесь: https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab4/lab4/
 
 <b>Этапы зрелости приложения:</b>
-![image](https://github.com/user-attachments/assets/a3da0b74-4629-4e01-bcc4-5f8f1a1980d8)
+
+![image](https://github.com/user-attachments/assets/a166e9a7-9963-49d9-904c-88672227f397)
+
 
 <b>Используемые ресурсы и их обоснование</b>
 В обосновании выбора ресурсов для прототипа AI‑приложения ключевым является баланс между скоростью разработки, гибкостью масштабирования и контролем затрат. 

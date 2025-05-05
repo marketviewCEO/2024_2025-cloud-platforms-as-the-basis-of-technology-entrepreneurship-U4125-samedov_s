@@ -13,8 +13,7 @@
 
 <b>Этапы зрелости приложения:</b>
 
-![image](https://github.com/user-attachments/assets/a166e9a7-9963-49d9-904c-88672227f397)
-
+![image](https://github.com/user-attachments/assets/b4349704-0118-4af1-9bcc-40b84cb8ef21)
 
 <b>Схема работы приложения</b>
 
